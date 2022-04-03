@@ -1,0 +1,20 @@
+.menu-ber {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav.menu-ber a {
+    font-size: 17px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    color: #0c0c0cb8;
+    transition: .4s;
+}
+
+nav.menu-ber a:hover {
+    color: #dd0267f5;
+}
