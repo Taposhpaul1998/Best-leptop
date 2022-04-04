@@ -1,0 +1,33 @@
+.leptop-info h2 {
+    font-size: 49px;
+    font-family: arial;
+    font-weight: 700;
+    color: #3c0dad7a;
+    margin-bottom: 0px;
+}
+
+.leptop-info p {
+    font-size: 17px;
+    font-family: arial;
+    font-weight: 600;
+    color: gray;
+    line-height: 30px;
+    margin-top: 23px;
+}
+
+button.demo-btn {
+    padding: 10px 35px;
+    font-size: 15px;
+    font-family: arial;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #19d4dd;
+    border: none;
+    border-radius: 6px;
+    transition: .4s;
+}
+
+button.demo-btn:hover {
+    cursor: pointer;
+    background-color: #58bcdd;
+}

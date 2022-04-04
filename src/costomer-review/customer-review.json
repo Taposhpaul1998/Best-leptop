@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "name": "Michel of Hialeah",
+        "review": "I have had Dell forever. They are very sturdy and you can trust them. My kids dropped them several times and they keep working. For college students they are a plus because come in many different formats. Very good job Dell. You have here a well satisfied customer. Thanks.",
+        "retting": 4.5,
+        "date": " Jan. 10, 2020"
+    },
+    {
+        "id": "2",
+        "name": "Robert of Hayden",
+        "review": "This has been a very good laptop. Good battery life, and great features. I would buy one again. I went from a desktop computer to this laptop, and never looked back. this is a laptop with many features that most computers do not have",
+        "retting": 5,
+        "date": " Jan. 8, 2020"
+    },
+    {
+        "id": "3",
+        "name": "Chris of Lima",
+        "review": "Bought many computers over the years, but Dell stands out for quality and longevity. Soon I will buy their Poweredge server, but will wait for the Black Monday discount. All other computers I bought had problems, but Dell is a solid bet.",
+        "retting": 4.5,
+        "date": "  Jan. 7, 2021"
+    },
+    {
+        "id": "4",
+        "name": "Andrew Morris",
+        "review": "Bought a Dell laptop in July 2021, a windows update rendered it unusable in November 2021. Returned twice to Dell for repair and the same problem persists. Requested a refund at the beginning of Feb 2022 - still no refund or a working laptop. Don't buy one - not worth the trouble. Terrible customer service.",
+        "retting": 1.5,
+        "date": " Jan. 5, 2022"
+    },
+    {
+        "id": "5",
+        "name": "Bruno of Toronto",
+        "review": "In two months the system crashed (blue screen) twice while using Dell's update tool. System got buggy after using Dell's recovery tool. Asked for help from support. It took Dell 3 days to contact me in the specified time window and the answer was that I would have to pay $129 for personalized support to fix an issue that Dell software created in a brand new computer.",
+        "retting": 2.5,
+        "date": " Jan. 4, 2022"
+    },
+    {
+        "id": "6",
+        "name": "Greg of Crossville",
+        "review": "Their customer service is responsive when under warranty. Extended service is relatively expensive. The machine is reliable and whenever I had an issue there were no arguments. They just fixed the problem. You make a higher investment up front, but I feel it is well worth i.",
+        "retting": 4,
+        "date": " Jan. 3, 2022"
+    },
+    {
+        "id": "7",
+        "name": "Keith of Birmingham",
+        "review": "Initial laptop had a motherboard failure at three months. Dell replaced the laptop with a RAM upgrade of their own volition, after a technician came to my house to evaluate. Nice perk. I found their customer service to be excellent. Easy to contact and very responsive.",
+        "retting": 3.5,
+        "date": " Jan. 2, 2022"
+    }
+]

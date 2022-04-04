@@ -6,8 +6,8 @@ const Header = () => {
     return (
         <nav className='menu-ber'>
             <Link to='/'>Home</Link>
-            <Link to='/review'>Review</Link>
-            <Link to='/leaderbord'>Deshbord</Link>
+            <Link to='/review'>Reviews</Link>
+            <Link to='/deshbord'>Deshbord</Link>
             <Link to='/about'>About</Link>
         </nav>
     );

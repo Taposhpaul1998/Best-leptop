@@ -16,3 +16,19 @@
 .product-img img {
     max-width: 100%;
 }
+
+.review-conteiner {
+    width: 85%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.review-conteiner h2 {
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 28px;
+    color: gray;
+    border-bottom: 3px solid #022dfd75;
+}
