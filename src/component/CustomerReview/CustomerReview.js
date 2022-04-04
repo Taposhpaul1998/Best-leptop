@@ -1,3 +1,4 @@
+import './CustomerReview.css'
 
 const CustomerReview = ({ review }) => {
     const { name, date, retting, _review } = review
@@ -5,8 +6,8 @@ const CustomerReview = ({ review }) => {
         <div className="review-info">
             <h4>{name}</h4>
             <p> {_review}</p>
-            <p>Ratting: {retting} star</p>
-            <p>Date: <small>{date}</small></p>
+            <h5>Ratting: <small>{retting} star</small></h5>
+            <h5>Date: <small>{date}</small></h5>
         </div>
     );
 };

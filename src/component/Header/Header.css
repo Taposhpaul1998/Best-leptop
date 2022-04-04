@@ -3,18 +3,23 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #004eff2e;
 }
 
 nav.menu-ber a {
     font-size: 17px;
-    margin-left: 30px;
+    margin: 5px;
+    padding: 11px;
     font-family: sans-serif;
     font-weight: 600;
     text-decoration: none;
     color: #0c0c0cb8;
+    border-bottom: 3px solid #80808036;
     transition: .4s;
+
 }
 
 nav.menu-ber a:hover {
     color: #dd0267f5;
+    border-bottom: 3px solid #dd0267f5;
 }

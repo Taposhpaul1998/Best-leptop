@@ -1,0 +1,33 @@
+.review-info {
+    width: 612px;
+    padding: 0px 25px;
+    margin-bottom: 32px;
+}
+
+.review-info h4 {
+    font-size: 17px;
+    font-family: arial;
+    margin-top: 12px;
+    margin-bottom: 0px;
+    color: #5e5e5e;
+}
+
+.review-info p {
+    color: gray;
+    font-size: 16px;
+    font-family: arial;
+    line-height: 21px;
+}
+
+.review-info h5 {
+    font-family: arial;
+    font-size: 14px;
+    line-height: 1px;
+    color: #3a3a3ae3;
+}
+
+.review-info h5 small {
+    font-size: 13px;
+    font-weight: 700;
+    color: #ff4500b3;
+}

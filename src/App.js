@@ -1,5 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import Blogs from './component/Blogs/Blogs';
 import Deshbord from './component/Deshbord/Deshbord';
 import Error from './component/Error/Error';
 import Header from './component/Header/Header';
@@ -14,6 +15,7 @@ function App() {
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/review' element={<Review></Review>}></Route>
         <Route path='/deshbord' element={<Deshbord></Deshbord>}></Route>
+        <Route path='/blogs' element={<Blogs></Blogs>}></Route>
         <Route path='*' element={<Error></Error>}></Route>
       </Routes>
     </div>
