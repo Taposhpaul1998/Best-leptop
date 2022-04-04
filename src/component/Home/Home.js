@@ -4,6 +4,7 @@ import img from '../../image/dell.png'
 import './Home.css'
 import CustomerReview from '../CustomerReview/CustomerReview';
 import useReviews from '../Hook/useReview';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
     const [reviews, setReviews] = useReviews();
@@ -27,7 +28,7 @@ const Home = () => {
                         review={review}
                     ></CustomerReview>)
                 }
-                <button className='seeAllBtn'>See all review</button>
+                <Link to="/review"><button className='seeAllBtn'>See all review</button></Link>
             </div>
         </div>
     );
